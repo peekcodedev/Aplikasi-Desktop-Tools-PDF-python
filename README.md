@@ -36,7 +36,17 @@ python pdf_tools.py
 
 ## 🖥️ Tampilan Aplikasi
 
-![Screenshot](https://via.placeholder.com/800x400?text=PDF+Tools+GUI)
+![Screenshot](https://i.postimg.cc/rmWSsXpG/image.png)
+
+## 🔥 Pembaruan & Unduhan
+Versi Terbaru: v1.0.0 (05 Maret 2025)
+
+💾 Unduh untuk Windows: [Download PDF Tools v1.0.0](https://github.com/peekcodedev/Aplikasi-Desktop-Tools-PDF-python/releases)
+
+📜 Changelog:
+
+🚀 Versi awal dengan fitur lengkap
+🔧 Perbaikan bug minor
 
 ## 📜 Dependencies
 
